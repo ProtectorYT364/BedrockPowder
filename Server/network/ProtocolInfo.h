@@ -8,13 +8,13 @@
 #include "Server/utils/StdEnv.h"
 
 // Game version
-#define MCPE_VERSION "1.19.11.01"
+#define MCPE_VERSION "1.19.40.02"
 
 // Game name
-#define GAME_NAME "MCPE"
+#define GAME_NAME "BedrockPowder"
 
 // Game protocol version
-#define PROTOCOL_VERSION 534
+#define PROTOCOL_VERSION 557
 
 // The id of the packet that is sent by the client and server to exchange data.
 #define MCPE_GAME_PACKET 0xfe
